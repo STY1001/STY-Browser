@@ -1,8 +1,3 @@
-# STY-Browser
-Is my C# browser
+# STY Browser
 
-OPEN SOURCE
-
-To download installer go to INSTALLER folder
-
-Enjoy!
+https://github.com/STY1001/STY-WebBrowser
